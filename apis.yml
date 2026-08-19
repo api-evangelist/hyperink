@@ -26,7 +26,7 @@ x-status-note: 'Primary domain hyperink.com does not resolve (no DNS A/NS record
   verified 2026-07-20); Hyperink was a book-publishing startup acquired circa 2013.
   No live website, developer portal, or API surface exists to enrich. Note: hyperink.io
   now hosts an unrelated AI service (Inkgen) and is not this company.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
