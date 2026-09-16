@@ -33,15 +33,16 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-status-note: 'Primary domain hyperink.com does not resolve (no DNS A/NS records,
-  verified 2026-07-20); Hyperink was a book-publishing startup acquired circa 2013.
-  No live website, developer portal, or API surface exists to enrich. Note: hyperink.io
-  now hosts an unrelated AI service (Inkgen) and is not this company.'
+x-status-note: 'Primary domain hyperink.com does not resolve (no DNS A/NS records, verified 2026-07-20);
+  Hyperink was a book-publishing startup acquired circa 2013. No live website, developer portal, or API
+  surface exists to enrich. Note: hyperink.io now hosts an unrelated AI service (Inkgen) and is not this
+  company.'
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
